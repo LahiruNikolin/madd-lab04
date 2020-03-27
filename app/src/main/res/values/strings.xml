@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">madd_lab04</string>
+    <string name="enter_name">Name</string>
+    <string name="btn_sign">Send</string>
+    <string name="channel_name">Madd Sign In</string>
+    <string name="channel_description">Welcome to Madd</string>
+</resources>
